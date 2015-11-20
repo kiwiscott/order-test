@@ -21,7 +21,7 @@ The output object should have the following fields:
 >* price (float)
 
 Here's the first sample line item 
->'   1   P123456  SPORTING    9      1000'
+    >'   1   P123456  SPORTING    9      1000'
 
 expected object
 >{lineno : 1 , code : 'P123456', category : 'SPORTING' , quantity : 9, price : 10.00}
